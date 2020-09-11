@@ -1,0 +1,27 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    justify-content: center;
+    padding: 10px;
+    align-items: center;
+    margin: 0 auto;
+    background: lightyellow;
+    font-size: x-large;
+    font-weight: bold;
+    width: 100vw;
+    text-align: center;
+}
+
+.pass {
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: ghostwhite;
+    width: 100vw;
+    text-align: center;
+}
